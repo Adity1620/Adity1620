@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya V!
 
 
-  📧 [Email](adityavenkatesh16@gmail.com)-
+  📧 [Email](mailto:adityavenkatesh16@gmail.com)-
   [LinkedIn](https://linkedin.com/in/aditya-v-1610o2004)-
 
 

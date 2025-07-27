@@ -25,12 +25,12 @@ I'm a passionate **B.Tech. student specializing in Artificial Intelligence & Dat
 
 ## 🛠️ Projects
 
-### [Dynamo AI: Inclusive Multi-Lingual AI Chatbot for Enterprises (Sep 2024)]()
+### [Dynamo AI: Inclusive Multi-Lingual AI Chatbot for Enterprises (Sep 2024)](https://github.com/Adity1620/Driver-Drowsiness-Detection.git)
 - RAG-powered chatbot using LLAMA 3.1
 - Multi-lingual support, offensive language detection, 2FA and role-based access
 - Streamlit front-end, supports 10+ languages for inclusivity
 
-### [Araycci - The Research Paper AI Assistant (Jul 2024)]()
+### [Araycci - The Research Paper AI Assistant (Jul 2024)](https://github.com/Adity1620/Araycci-The-Research-Paper-AI-Assistant.git)
 - Search 2.4M+ ArXiv papers or personal uploads for clustering, summarization, and Q&A using LLMs
 - Pioneered TTS (text-to-speech) in 3 languages for listening to summaries & Q&A
 
@@ -38,7 +38,7 @@ I'm a passionate **B.Tech. student specializing in Artificial Intelligence & Dat
 - Real-time system with CNN and Haar Cascade classifiers
 - Achieved 90% accuracy, reducing drowsiness-induced risk by ~80%
 
-### [Doctor Appointment & HR Virtual Assistants @ Pronix IT Solutions Pvt. Ltd. (May–Jul 2025)]()
+### [Doctor Appointment & HR Virtual Assistants @ Pronix IT Solutions Pvt. Ltd. (May–Jul 2025)](https://www.linkedin.com/posts/aditya-v-1610o2004_internshipexperience-artificialintelligence-activity-7354917047908118528-kEeP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9zpUoB9q-lr91dA98CWJ7HeXfY0DZ0Ty0)
 - Developed & deployed appointment and HR assistants using Kore.ai, REST APIs, and MockAPI
 - Enabled multi-user access, real-time operations, and agent handoff
 

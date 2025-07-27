@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Aditya V!
 
 
-  📧 Email - 
-  LinkedIn - 
-  GitHub
+  📧 [Email](adityavenkatesh16@gmail.com)-
+  [LinkedIn](https://linkedin.com/in/aditya-v-1610o2004)-
 
 
 ## 🚀 About Me
@@ -56,8 +55,3 @@ I'm a passionate **B.Tech. student specializing in Artificial Intelligence & Dat
 ## 🏆 Achievements
 
 - **Finalist, HackIT 2023** — Top 10 team at intra-collegiate hackathon by Google at SSN College 
-
-How to reach me?
-
-- 📧 [Email](adityavenkatesh16@gmail.com)
-- [LinkedIn](https://linkedin.com/in/aditya-v-1610o2004)

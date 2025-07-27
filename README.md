@@ -46,11 +46,7 @@ I'm a passionate **B.Tech. student specializing in Artificial Intelligence & Dat
 
 **Software Engineering Intern (Artificial Intelligence)** – Pronix IT Solutions  
 *May 2025 – July 2025*  
-- Developed intelligent enterprise assistants (appointment booking, HR, multilingual support)
-
-**Business Development Intern** – Param Renewable Energy  
-*May 2024 – June 2024*  
-- Enhanced operational workflows and managed client communication using automation tools
+- Developed intelligent enterprise level virtual assistants (Doctor appointment booking, multilingual support HR Assistant,)
 
 ## 🏆 Achievements
 

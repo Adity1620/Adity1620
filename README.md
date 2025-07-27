@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **B.Tech. student specializing in Artificial Intelligence & Data Science** at Shiv Nadar University, Chennai (Graduating August 2026). I enjoy building solutions with Machine Learning, Generative AI, and End-to-End Full Stack Development. My interests span Enterprise AI, Multilingual Chatbots, NLP, and practical data-driven applications.
+ a final year **B.Tech. student in Artificial Intelligence & Data Science at Shiv Nadar University, Chennai**, I specialize in Generative AI, Agentic AI, Computer Vision, ML/DL, and Data Science—constantly pushing boundaries through hands-on projects. My recent work includes building advanced solutions using Retrieval-Augmented Generation (RAG), powering multilingual chatbots and intelligent research assistants. Passionate about the latest breakthroughs, I thrive on creating innovative, future-ready technologies that tackle real-world challenges and keep me at the forefront of the AI revolution.
 
 ## 🧠 Skills
 
@@ -21,7 +21,7 @@ I'm a passionate **B.Tech. student specializing in Artificial Intelligence & Dat
 
 - Automation AI, Search AI, Contact Center AI (Kore.ai) — 2025
 - IBM Full Stack Software Developer Professional Certificate — 2023
-- Agentic AI & Generative AI (Ongoing, Udemy & Guvi)
+- Agentic AI & Generative AI (Udemy) - Ongoing
 
 ## 🛠️ Projects
 

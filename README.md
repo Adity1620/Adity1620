@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
- a final year **B.Tech. student in Artificial Intelligence & Data Science at Shiv Nadar University, Chennai**, I specialize in Generative AI, Agentic AI, Computer Vision, ML/DL, and Data Science—constantly pushing boundaries through hands-on projects. My recent work includes building advanced solutions using Retrieval-Augmented Generation (RAG), powering multilingual chatbots and intelligent research assistants. Passionate about the latest breakthroughs, I thrive on creating innovative, future-ready technologies that tackle real-world challenges and keep me at the forefront of the AI revolution.
+ Welcome to my GitHub! I'm a passionate AI enthusiast, currently pursuing a **B.Tech. student in Artificial Intelligence & Data Science** at Shiv Nadar University, Chennai, I specialize in Generative AI, Agentic AI, Computer Vision, ML/DL, and Data Science—constantly pushing boundaries through hands-on projects. My recent work includes building advanced solutions using Retrieval-Augmented Generation (RAG), powering multilingual chatbots and intelligent research assistants. Passionate about the latest breakthroughs, I thrive on creating innovative, future-ready technologies that tackle real-world challenges and keep me at the forefront of the AI revolution.
 
 ## 🧠 Skills
 

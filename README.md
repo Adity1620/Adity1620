@@ -2,7 +2,7 @@
 
 
   📧 [Email](mailto:adityavenkatesh16@gmail.com)-
-  [LinkedIn](https://linkedin.com/in/aditya-v-1610o2004)-
+  [LinkedIn](https://linkedin.com/in/aditya-v-1610o2004)
 
 
 ## 🚀 About Me
@@ -41,6 +41,8 @@
 ### [Doctor Appointment & HR Virtual Assistants @ Pronix IT Solutions Pvt. Ltd. (May–Jul 2025)](https://www.linkedin.com/posts/aditya-v-1610o2004_internshipexperience-artificialintelligence-activity-7354917047908118528-kEeP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9zpUoB9q-lr91dA98CWJ7HeXfY0DZ0Ty0)
 - Developed & deployed appointment and HR assistants using Kore.ai, REST APIs, and MockAPI
 - Enabled multi-user access, real-time operations, and agent handoff
+
+Explore more on my [GitHub repositories](https://github.com/Adity1620?tab=repositories) 🔗
 
 ## 💼 Experience
 

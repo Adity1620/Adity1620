@@ -59,6 +59,5 @@ I'm a passionate **B.Tech. student specializing in Artificial Intelligence & Dat
 
 How to reach me?
 
-- 📧 adityavenkatesh16@gmail.com
-- 📱 +91 9741497014
+- 📧 [Email](adityavenkatesh16@gmail.com)
 - [LinkedIn](https://linkedin.com/in/aditya-v-1610o2004)

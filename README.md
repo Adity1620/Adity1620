@@ -59,7 +59,9 @@ I'm a passionate **B.Tech. student specializing in Artificial Intelligence & Dat
 
 ## 📊 Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adity1620&show_icons=true&hide_rank=true&themes](https://github-readme-stats.vercel.app/api/top-langs/?username=Adity1620&layout How to reach me?
+https://github-readme-stats.vercel.app/api?username=Adity1620&show_icons=true&hide_rank=true&themes](https://github-readme-stats.vercel.app/api/top-langs/?username=Adity1620&layout 
+
+How to reach me?
 
 - 📧 adityavenkatesh16@gmail.com
 - 📱 +91 9741497014

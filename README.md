@@ -55,11 +55,7 @@ I'm a passionate **B.Tech. student specializing in Artificial Intelligence & Dat
 
 ## 🏆 Achievements
 
-- **Finalist, HackIT 2023** — Top 10 team at intra-collegiate hackathon by Google at SSN College
-
-## 📊 Stats
-
-https://github-readme-stats.vercel.app/api?username=Adity1620&show_icons=true&hide_rank=true&themes](https://github-readme-stats.vercel.app/api/top-langs/?username=Adity1620&layout 
+- **Finalist, HackIT 2023** — Top 10 team at intra-collegiate hackathon by Google at SSN College 
 
 How to reach me?
 

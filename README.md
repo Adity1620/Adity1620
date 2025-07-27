@@ -17,7 +17,7 @@
 - **Data Analysis/Visualization**: SQL, Pandas, Numpy, Tableau, Matplotlib, Seaborn
 - **Software & Web Development**: Python, Java, C, HTML, CSS, JavaScript, React, Node.js, Streamlit, RESTful APIs
 - **AI Tools & Platforms**: Kore.ai XO, Vertex AI
-- **Other**: Algorithms, Data Structures, Computer Networks
+- **Other**: Data Structures & Algorithm, Computer Networks
 
 ## 🌟 Certifications
 

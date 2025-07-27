@@ -34,7 +34,7 @@ I'm a passionate **B.Tech. student specializing in Artificial Intelligence & Dat
 - Search 2.4M+ ArXiv papers or personal uploads for clustering, summarization, and Q&A using LLMs
 - Pioneered TTS (text-to-speech) in 3 languages for listening to summaries & Q&A
 
-### [Drowsiness Detection System (Feb 2024 – Mar 2024)]()
+### [Drowsiness Detection System (Feb 2024 – Mar 2024)](https://github.com/Adity1620/Driver-Drowsiness-Detection.git)
 - Real-time system with CNN and Haar Cascade classifiers
 - Achieved 90% accuracy, reducing drowsiness-induced risk by ~80%
 

@@ -1,8 +1,10 @@
 # 👋 Hi there, I'm Aditya V!
 
 
-  📧 [Email](mailto:adityavenkatesh16@gmail.com)-
-  [LinkedIn](https://linkedin.com/in/aditya-v-1610o2004)
+<p align="center">
+  📧 <a href="mailto:adityavenkatesh16@gmail.com">Email</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/aditya-v-1610o2004">LinkedIn</a>
+</p>
 
 
 ## 🚀 About Me

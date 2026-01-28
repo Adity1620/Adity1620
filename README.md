@@ -27,7 +27,7 @@
 
 ## 🛠️ Projects
 
-### [Dynamo AI: Inclusive Multi-Lingual AI Chatbot for Enterprises (Sep 2024)](https://github.com/Adity1620/Driver-Drowsiness-Detection.git)
+### [Dynamo AI: Inclusive Multi-Lingual AI Chatbot for Enterprises (Sep 2024)](https://github.com/Adity1620/Dynamo.ai.git)
 - RAG-powered chatbot using LLAMA 3.1
 - Multi-lingual support, offensive language detection, 2FA and role-based access
 - Streamlit front-end, supports 10+ languages for inclusivity
